@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Claude
+.claude
+
+# Application generated files
+segRetino/results/
+
+# Environment specific
+.python-version
+requirements.txt
