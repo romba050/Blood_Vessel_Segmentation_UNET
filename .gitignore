@@ -20,3 +20,6 @@ segRetino/HRF/
 # Environment specific
 .python-version
 requirements.txt
+
+# Helper file (should not be needed since program should download weights autonomously)
+download_unet_weights_from_Basile_gdrive.sh
