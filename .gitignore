@@ -15,6 +15,7 @@ wheels/
 # Application generated files
 segRetino/results/
 segRetino/weights/
+segRetino/HRF/
 
 # Environment specific
 .python-version
